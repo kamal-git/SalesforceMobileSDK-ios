@@ -1,0 +1,4 @@
+SalesforceMobileSDK-ios
+=======================
+
+salesforcemobilesdk
